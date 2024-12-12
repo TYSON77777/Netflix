@@ -31,10 +31,6 @@ This is a Netflix clone built using React, TMDB API, JWT Authentication, Firebas
 
 ### Steps 🔧
 
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
 Usage 🎬
 Sign Up / Log In: Users can create an account or log in to access personalized features 🔐.
 Browse Movies: The homepage displays a list of trending and popular movies fetched from the TMDB API 🎥.

@@ -128,8 +128,9 @@ Browse Movies: The homepage displays a list of trending and popular movies fetch
 Movie Details: Clicking on a movie will show more detailed information, including the movie's plot, cast, and release date 📜.
 Profile: After logging in, users can see their profile and preferences 👤.
 
+## Project Structure 🗂
 
-Project Structure 🗂️
+```plaintext
 ├── client/                 # React frontend code
 │   ├── public/             # Public assets like images, index.html
 │   ├── src/                # React components and app logic
@@ -159,5 +160,5 @@ Project Structure 🗂️
 │   └── server.js           # Main entry point for the server
 ├── .gitignore              # Git ignore file
 ├── README.md               # Project documentation
-└── package.json            # Backend dependencies
+└── package.json            # Backend dependencies
 
